@@ -56,7 +56,14 @@ Sonar | Jacoco
 <a href="https://www.credly.com/badges/9ed35390-2085-4f64-bde6-ba9ee694781e" title="PSM 1 ">
   <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="80" height="80"/>
 </a>
+<a href="https://learner.henryharvin.com/public/share-certificate.php?title=Sunayna+Talreja+has+successfully+completed+the+certification+in+CERTIFIED+SIX+SIGMA+EXECUTIVE+GREEN+BELT+&cer_url=https://hh-certificates.sgp1.digitaloceanspaces.com/1655193275.jpg" title="Lean Six Sigma Green Belt">
+  <img src="https://gaqm.org/uploads/cert_logos/logo_5442.png" width="80" height="80"/>
+</a>
 
+<a>
+  <img src="[https://gaqm.org/uploads/cert_logos/logo_5442.png](https://images.credly.com/images/12c64ffc-c5af-4be8-8fdc-8de91879be44/Brightest_CTFL.png)" width="80" height="80"/>
+</a>
+  
 </p>
 
 ## 🚀 Currently Exploring
