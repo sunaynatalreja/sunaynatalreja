@@ -59,7 +59,8 @@ My work blends precision testing with clean architecture and modern DevOps pract
   </a>
 
   <br/>
-
+  <br/>
+  
   **API Testing:**  
 
   <a href="https://rest-assured.io/">
@@ -69,6 +70,7 @@ My work blends precision testing with clean architecture and modern DevOps pract
     Bozr
   </a>
 
+  <br/>
   <br/>
 
   **CI/CD & DevOps:**  
@@ -93,8 +95,8 @@ My work blends precision testing with clean architecture and modern DevOps pract
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="github actions" style="vertical-align:top; margin:4px">
   </a>
   
-</p>
 
+<br/>
 <br/>
 
 
@@ -121,6 +123,8 @@ Wiremock | Mocklab
 
 **Code Quality:**  
 Sonar | Jacoco  
+
+</p>
 
 ---
 
