@@ -61,7 +61,7 @@ Sonar | Jacoco
 </a>
 
 <a>
-  <img src="https://seetb.org/appdata/pics/c_p/66769c7f0ff557dcb600d2f1688ff340.png" width="80" height="80"/>
+  <img src="https://seetb.org/appdata/pics/c_p/66769c7f0ff557dcb600d2f1688ff340.png" width="100" height="100"/>
 </a>
   
 </p>
