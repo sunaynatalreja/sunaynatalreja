@@ -33,12 +33,39 @@ My work blends precision testing with clean architecture and modern DevOps pract
    <a href="https://aws.amazon.com/">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" style="vertical-align:top; margin:4px">
   </a>
+  
+  <br/>
 
   **Automation & Testing:**  
 
   <a href="https://www.selenium.dev/">
-    <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="Selenium" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.worldvectorlogo.com/logos/selenium-1.svg" alt="Selenium" style="vertical-align:top; margin:4px">
   </a>
+  <a href="https://www.selenium.dev/">
+    <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="TestNG" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.selenium.dev/">
+    <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="Cucumber" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.selenium.dev/">
+    <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="Appium" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.selenium.dev/">
+    <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="go-rod" style="vertical-align:top; margin:4px">
+  </a>
+
+  <br/>
+
+  **API Testing:**  
+
+  <a href="https://www.selenium.dev/">
+    <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="RestAssured" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.selenium.dev/">
+    <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="Bozr" style="vertical-align:top; margin:4px">
+  </a>
+
+  <br/>
 
   **CI/CD & DevOps:**  
 
@@ -49,20 +76,26 @@ My work blends precision testing with clean architecture and modern DevOps pract
   <a href="https://kubernetes.io">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
   </a>
+
+  <a href="https://hub.docker.com/">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="jenkins" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://kubernetes.io">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="maven" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://kubernetes.io">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="github actions" style="vertical-align:top; margin:4px">
+  </a>
+  
 </p>
 
+<br/>
 
-
-Selenium | TestNG | Cucumber | Appium | go-rod  
-
-**API Testing:**  
-RestAssured | Bozr  
 
 **Performance Testing:**  
 JMeter | x-component-pnv (ANZ Internal)  
-
-
-Jenkins | Maven | GitHub Actions | Docker | Kubernetes  
 
 **Databases:**  
 SQL | MongoDB | Solr  
