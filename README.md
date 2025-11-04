@@ -41,28 +41,32 @@ My work blends precision testing with clean architecture and modern DevOps pract
   <a href="https://www.selenium.dev/">
     <img src="https://cdn.worldvectorlogo.com/logos/selenium-1.svg" alt="Selenium" style="vertical-align:top; margin:4px; width:100px; height:auto;">
   </a>
-  <a href="https://www.selenium.dev/">
-    <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="TestNG" style="vertical-align:top; margin:4px">
+  
+  <a href="https://testng.org/">
+    <img src="https://avatars.githubusercontent.com/u/12528662?s=280&v=4" alt="TestNG" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.selenium.dev/">
-    <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="Cucumber" style="vertical-align:top; margin:4px">
+  
+  <a href="https://cucumber.io/">
+    <img src="https://cdn.worldvectorlogo.com/logos/cucumber.svg" alt="Cucumber" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.selenium.dev/">
-    <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="Appium" style="vertical-align:top; margin:4px">
+  
+  <a href="https://appium.io/docs/en/latest/">
+    <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" alt="Appium" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.selenium.dev/">
-    <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="go-rod" style="vertical-align:top; margin:4px">
+  
+  <a href="https://github.com/go-rod/rod">
+    <img src="https://avatars.githubusercontent.com/u/67498156?s=48&v=4" alt="go-rod" style="vertical-align:top; margin:4px">
   </a>
 
   <br/>
 
   **API Testing:**  
 
-  <a href="https://www.selenium.dev/">
-    <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="RestAssured" style="vertical-align:top; margin:4px">
+  <a href="https://rest-assured.io/">
+    <img src="https://rest-assured.io/img/logo-transparent.png" alt="RestAssured" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.selenium.dev/">
-    <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="Bozr" style="vertical-align:top; margin:4px">
+  <a href="https://github.com/kajf/bozr">
+    Bozr
   </a>
 
   <br/>
