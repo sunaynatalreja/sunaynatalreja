@@ -37,7 +37,7 @@ My work blends precision testing with clean architecture and modern DevOps pract
   **Automation & Testing:**  
 
   <a href="https://www.selenium.dev/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1148px-Selenium_Logo.png?20200511151950" alt="Selenium" style="vertical-align:top; margin:4px">
+    <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="Selenium" style="vertical-align:top; margin:4px">
   </a>
 
   **CI/CD & DevOps:**  
