@@ -69,9 +69,7 @@ Sonar | Jacoco
 ## 🚀 Currently Exploring
 
 - Leveraging **LLMs and Generative AI** to supercharge QA automation  
-- Building **microservices** in **Go** with containerized CI/CD pipelines  
-- Scaling automation frameworks using **GitHub Actions** and **Kubernetes**
-
+- Passionate about redefining QA through **agentic AI** — where automation learns, adapts, and scales itself.
 ---
 
 ## 🌱 Personal Philosophy
