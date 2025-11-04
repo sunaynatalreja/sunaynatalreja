@@ -10,6 +10,8 @@ My work blends precision testing with clean architecture and modern DevOps pract
 ## Professional Skills
 
 <p align="center">
+
+**Languages:**  
   <a href="https://www.java.com/en/">
     <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" style="vertical-align:top; margin:4px;">
   </a>
@@ -19,28 +21,38 @@ My work blends precision testing with clean architecture and modern DevOps pract
    <a href="https://www.python.org/">
     <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://hub.docker.com/">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
-  </a>
-   <a href="https://cloud.google.com/">
+
+<br/>
+
+**Cloud Platforms:**  
+
+  <a href="https://cloud.google.com/">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="google" style="vertical-align:top; margin:4px">
   </a>
   </a>
    <a href="https://aws.amazon.com/">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" style="vertical-align:top; margin:4px">
   </a>
+
+  **Automation & Testing:**  
+
+  <a href="https://www.selenium.dev/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1148px-Selenium_Logo.png?20200511151950" alt="Selenium" style="vertical-align:top; margin:4px">
+  </a>
+
+  **CI/CD & DevOps:**  
+
+  <a href="https://hub.docker.com/">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
+  </a>
+
   <a href="https://kubernetes.io">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
-**Languages:**  
-Java | Python | Golang  
 
-**Cloud Platforms:**  
-AWS | GCP  
 
-**Automation & Testing:**  
 Selenium | TestNG | Cucumber | Appium | go-rod  
 
 **API Testing:**  
@@ -49,7 +61,7 @@ RestAssured | Bozr
 **Performance Testing:**  
 JMeter | x-component-pnv (ANZ Internal)  
 
-**CI/CD & DevOps:**  
+
 Jenkins | Maven | GitHub Actions | Docker | Kubernetes  
 
 **Databases:**  
