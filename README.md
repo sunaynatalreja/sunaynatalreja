@@ -50,6 +50,14 @@ Sonar | Jacoco
 
 ---
 
+## Certifications
+
+<p align="center">
+<a href="https://www.credly.com/badges/9ed35390-2085-4f64-bde6-ba9ee694781e" title="GitHub Actions">
+  <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="80" height="80"/>
+</a>
+</p>
+
 ## 🚀 Currently Exploring
 
 - Leveraging **LLMs and Generative AI** to supercharge QA automation  
