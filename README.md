@@ -61,7 +61,7 @@ Sonar | Jacoco
 </a>
 
 <a>
-  <img src="[https://gaqm.org/uploads/cert_logos/logo_5442.png](https://images.credly.com/images/12c64ffc-c5af-4be8-8fdc-8de91879be44/Brightest_CTFL.png)" width="80" height="80"/>
+  <img src="https://seetb.org/appdata/pics/c_p/66769c7f0ff557dcb600d2f1688ff340.png" width="80" height="80"/>
 </a>
   
 </p>
