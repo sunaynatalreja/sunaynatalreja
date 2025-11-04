@@ -39,7 +39,8 @@ My work blends precision testing with clean architecture and modern DevOps pract
   **Automation & Testing:**  
 
   <a href="https://www.selenium.dev/">
-    <img src="https://cdn.worldvectorlogo.com/logos/selenium-1.svg" alt="Selenium" style="vertical-align:top; margin:4px">
+    <img src="https://cdn.worldvectorlogo.com/logos/selenium-1.svg" alt="Selenium" style="vertical-align:top; margin:4px"
+    style="vertical-align:top; margin:4px; width:40px; height:auto;">
   </a>
   <a href="https://www.selenium.dev/">
     <img src="https://images.seeklogo.com/logo-png/45/1/selenium-logo-png_seeklogo-456125.png" alt="TestNG" style="vertical-align:top; margin:4px">
