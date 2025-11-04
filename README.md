@@ -7,7 +7,32 @@ My work blends precision testing with clean architecture and modern DevOps pract
 
 ---
 
-## 🧠 Core Expertise
+## Professional Skills
+
+<p align="center">
+  <a href="https://www.java.com/en/">
+    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" style="vertical-align:top; margin:4px;">
+  </a>
+   <a href="https://go.dev/">
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" style="vertical-align:top; margin:4px;">
+  </a>
+   <a href="https://www.python.org/">
+    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://hub.docker.com/">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
+  </a>
+   <a href="https://cloud.google.com/">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="google" style="vertical-align:top; margin:4px">
+  </a>
+  </a>
+   <a href="https://aws.amazon.com/">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://kubernetes.io">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
+  </a>
+</p>
 
 **Languages:**  
 Java | Python | Golang  
@@ -59,33 +84,6 @@ Sonar | Jacoco
 <a href="https://www.credly.com/badges/9ed35390-2085-4f64-bde6-ba9ee694781e" title="GitHub Actions">
   <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" width="80" height="80"/>
 </a>
-</p>
-
-## Professional Skills
-
-<p align="center">
-  <a href="https://www.java.com/en/">
-    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" style="vertical-align:top; margin:4px;">
-  </a>
-   <a href="https://go.dev/">
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" style="vertical-align:top; margin:4px;">
-  </a>
-   <a href="https://www.python.org/">
-    <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://hub.docker.com/">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" style="vertical-align:top; margin:4px">
-  </a>
-   <a href="https://cloud.google.com/">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="google" style="vertical-align:top; margin:4px">
-  </a>
-  </a>
-   <a href="https://aws.amazon.com/">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://kubernetes.io">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" style="vertical-align:top; margin:4px">
-  </a>
 </p>
 
 ## 🚀 Currently Exploring
