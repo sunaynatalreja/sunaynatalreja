@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunayna Talreja
 
-### 💻 QA Engineer | 14+ Years of Experience | Automation | Cloud | AI/ML
+### 💻 QA Engineer | SDET | 14+ Years of Experience | Automation | Cloud | AI/ML
 
 I’m a hands-on engineer passionate about building **robust automation frameworks**, **scalable backend systems**, and **cloud-native solutions**.  
 My work blends precision testing with clean architecture and modern DevOps practices — always focused on writing maintainable, production-ready code.
