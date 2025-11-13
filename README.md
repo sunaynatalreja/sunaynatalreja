@@ -15,11 +15,8 @@ Java | Python | Golang
 **Cloud Platforms:**  
 AWS | GCP  
 
-**Automation & Testing:**  
-Selenium | TestNG | Cucumber | Appium | go-rod  
-
-**API Testing:**  
-RestAssured | Bozr  
+**Automation:**  
+Selenium | TestNG | Cucumber | Appium | go-rod | RestAssured | Bozr   
 
 **Performance Testing:**  
 JMeter | x-component-pnv (ANZ Internal)  
