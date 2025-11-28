@@ -28,7 +28,7 @@ Jenkins | Maven | GitHub Actions | Docker | Kubernetes
 SQL | MongoDB | Solr  
 
 **AI/ML:**  
-Vertex AI (Gemini) | TensorFlow | PyTorch | Keras | OpenCV | Mediapipe | GRU | ChatGPT fine-tuning  
+Vertex AI (Gemini) | TensorFlow | PyTorch | Keras | OpenCV | Mediapipe | GRU | LLM fine-tuning  
 
 **Version Control:**  
 Git | SVN  
